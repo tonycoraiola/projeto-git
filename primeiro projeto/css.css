@@ -1,0 +1,42 @@
+body {
+    background: #d2d2d1 url(/projeto\ anna\ bela/fundo.png);
+    /* justify-content: center;
+    display: flex center;
+    align-items: center; */
+}
+
+#principal {
+      width: 900px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      
+}
+
+#teste {
+    background: #c5c5b2;
+    padding: 18px;
+    text-align: center;
+}
+
+#conteudo {
+    background-color: #e8e8d9;
+    padding: 10px;
+    text-align: center;
+}
+
+#ropdape {
+    text-align: center;
+}
+
+.camp-pub {
+    border: 10px solid #c5c5b2;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none ;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+}
